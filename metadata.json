@@ -1,0 +1,7 @@
+{
+  "name": "TaskFlow AI",
+  "description": "Intelligent task management system for enterprise execution, featuring AI-powered meeting minutes, automatic task extraction, and employee performance tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
